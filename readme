@@ -1,0 +1,41 @@
+Buscador de Departamentos
+
+Este proyecto es una página web sencilla que permite buscar departamentos por ciudad y mostrar información básica de cada uno. Está hecha únicamente con HTML, CSS y JavaScript, sin frameworks ni librerías externas.
+
+¿Para qué sirve?
+
+La aplicación está pensada para que los usuarios puedan:
+
+Buscar departamentos en diferentes ciudades.
+
+Ver información básica de cada departamento 
+
+Filtrar resultados por ciudad.
+
+Tecnologías usadas
+
+HTML para la estructura.
+
+CSS para el diseño y estilos.
+
+JavaScript para la lógica de búsqueda y filtrado.
+
+Cómo usarla
+
+Abre el archivo index.html en tu navegador.
+
+Usa la barra de búsqueda para escribir la ciudad que te interesa.
+
+La página mostrará los departamentos disponibles que coincidan con tu búsqueda.
+
+Archivos principales
+
+index.html → estructura de la página.
+
+style.css → estilos y diseño.
+
+script.js → lógica de búsqueda y filtrado.
+
+Ejemplo de uso
+
+Si escribes Bogotá en la barra de búsqueda, se mostrarán todos los departamentos registrados en Bogotá junto con su información básica.
